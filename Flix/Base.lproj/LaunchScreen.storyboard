@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="appicon" translatesAutoresizingMaskIntoConstraints="NO" id="wGH-mE-m8O">
-                                <rect key="frame" x="100" y="288" width="214" height="321"/>
+                                <rect key="frame" x="83" y="72" width="214" height="321"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
